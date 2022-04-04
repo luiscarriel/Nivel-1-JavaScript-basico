@@ -16,3 +16,4 @@ function acao3() {
 function acao4() {
     resp.innerHTML += '<p>Clicou no quarto botão</p>'
 }
+
